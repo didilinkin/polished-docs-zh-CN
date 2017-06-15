@@ -4,40 +4,110 @@ polished 中文方法目录
 <details open>
   <summary>Mixins</summary>
   <ul>
-    <li><a href="http://polished.js.org/docs/#clearfix">clearFix</a></li>
-    <li><a href="http://polished.js.org/docs/#ellipsis">ellipsis</a></li>
-    <li><a href="http://polished.js.org/docs/#fontface">fontFace</a></li>
-    <li><a href="http://polished.js.org/docs/#hidpi">hiDPI</a></li>
-    <li><a href="http://polished.js.org/docs/#hidetext">hideText</a></li>
-    <li><a href="http://polished.js.org/docs/#normalize">normalize</a></li>
-    <li><a href="http://polished.js.org/docs/#placeholder">placeholder</a></li>
-    <li><a href="http://polished.js.org/docs/#radialgradient">radialGradient</a></li>
-    <li><a href="http://polished.js.org/docs/#retinaimage">retinaImage</a></li>
-    <li><a href="http://polished.js.org/docs/#selection">selection</a></li>
-    <li><a href="http://polished.js.org/docs/#timingfunctions">timingFunctions</a></li>
-    <li><a href="http://polished.js.org/docs/#triangle">triangle</a></li>
-    <li><a href="http://polished.js.org/docs/#wordwrap">wordWrap</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#clearfix">clearFix</a>
+      <span> - 清理浮动 </span>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#ellipsis">ellipsis</a>
+      <span> - 将超过指定长度的文本，使用省略号替代 </span>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#fontface">fontFace</a>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#hidpi">hiDPI</a>
+      <span> - 指定高分屏样式 </span>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#hidetext">hideText</a>
+      <span> - 用于隐藏文本，显示图片 </span>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#normalize">normalize</a>
+      <span> - 样式表初始化 </span>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#placeholder">placeholder</a>
+      <span> - 对 placeholder 伪元素设置样式 </span>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#radialgradient">radialGradient</a>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#retinaimage">retinaImage</a>
+      <span> - 为高分屏和低分屏设置不同的背景图 </span>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#selection">selection</a>
+      <span> - 对 selection 伪元素设置样式 </span>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#timingfunctions">timingFunctions</a>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#triangle">triangle</a>
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#wordwrap">wordWrap</a>
+    </li>
   </ul>
 </details>
 <details open>
   <summary>Color</summary>
   <ul>
     <li><a href="http://polished.js.org/docs/#adjusthue">adjustHue</a></li>
-    <li><a href="http://polished.js.org/docs/#complement">complement</a></li>
-    <li><a href="http://polished.js.org/docs/#darken">darken</a></li>
-    <li><a href="http://polished.js.org/docs/#desaturate">desaturate</a></li>
-    <li><a href="http://polished.js.org/docs/#grayscale">grayscale</a></li>
-    <li><a href="http://polished.js.org/docs/#hsl">hsl</a></li>
-    <li><a href="http://polished.js.org/docs/#hsla">hsla</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#complement">complement</a>
+      返回互补色
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#darken">darken</a>
+      调节颜色深浅
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#desaturate">desaturate</a>
+      降低颜色的饱和度
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#grayscale">grayscale</a>
+      将一个颜色转为灰度
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#hsl">hsl</a>
+      指定色调、饱和度和亮度三个值，返回一个颜色
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#hsla">hsla</a>
+      指定色调、饱和度、亮度和透明度三个值，返回一个颜色
+    </li>
     <li><a href="http://polished.js.org/docs/#invert">invert</a></li>
-    <li><a href="http://polished.js.org/docs/#lighten">lighten</a></li>
-    <li><a href="http://polished.js.org/docs/#mix">mix</a></li>
-    <li><a href="http://polished.js.org/docs/#opacify">opacify</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#lighten">lighten</a>
+      调节颜色深浅
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#mix">mix</a>
+      混合两种颜色
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#opacify">opacify</a>
+      调节透明度
+    </li>
     <li><a href="http://polished.js.org/docs/#parsetohsl">parseToHsl</a></li>
     <li><a href="http://polished.js.org/docs/#parsetorgb">parseToRgb</a></li>
-    <li><a href="http://polished.js.org/docs/#rgb">rgb</a></li>
-    <li><a href="http://polished.js.org/docs/#rgba">rgba</a></li>
-    <li><a href="http://polished.js.org/docs/#saturate">saturate</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#rgb">rgb</a>
+      指定红、绿、蓝三个值，返回一个颜色
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#rgba">rgba</a>
+      指定红、绿、蓝和透明度四个值，返回一个颜色
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#saturate">saturate</a>
+      增加颜色的饱和度
+    </li>
     <li><a href="http://polished.js.org/docs/#sethue">setHue</a></li>
     <li><a href="http://polished.js.org/docs/#setlightness">setLightness</a></li>
     <li><a href="http://polished.js.org/docs/#setsaturation">setSaturation</a></li>
@@ -69,9 +139,15 @@ polished 中文方法目录
   <summary>Helpers</summary>
   <ul>
     <li><a href="http://polished.js.org/docs/#directionalproperty">directionalProperty</a></li>
-    <li><a href="http://polished.js.org/docs/#em">em</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#em">em</a>
+      将像素转为 em
+    </li>
     <li><a href="http://polished.js.org/docs/#modularscale">modularScale</a></li>
-    <li><a href="http://polished.js.org/docs/#rem">rem</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#rem">rem</a>
+      将像素转为 rem
+    </li>
     <li><a href="http://polished.js.org/docs/#stripunit">stripUnit</a></li>
   </ul>
 </details>
