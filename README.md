@@ -2,7 +2,7 @@
 polished 中文方法目录
 
 <details open>
-  <summary>Mixins</summary>
+  <summary>Mixins - 混合</summary>
   <ul>
     <li>
       <a href="http://polished.js.org/docs/#clearfix">clearFix</a>
@@ -54,7 +54,7 @@ polished 中文方法目录
   </ul>
 </details>
 <details open>
-  <summary>Color</summary>
+  <summary>Color - 颜色</summary>
   <ul>
     <li><a href="http://polished.js.org/docs/#adjusthue">adjustHue</a></li>
     <li>
@@ -117,7 +117,7 @@ polished 中文方法目录
   </ul>
 </details>
 <details open>
-  <summary>Shorthands</summary>
+  <summary>Shorthands - 简写方法</summary>
   <ul>
     <li><a href="http://polished.js.org/docs/#animation">animation</a></li>
     <li><a href="http://polished.js.org/docs/#backgroundimages">backgroundImages</a></li>
@@ -128,7 +128,10 @@ polished 中文方法目录
     <li><a href="http://polished.js.org/docs/#borderwidth">borderWidth</a></li>
     <li><a href="http://polished.js.org/docs/#buttons">buttons</a></li>
     <li><a href="http://polished.js.org/docs/#margin">margin</a></li>
-    <li><a href="http://polished.js.org/docs/#padding">padding</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#padding">padding</a>
+      padding缩写(4个)
+    </li>
     <li><a href="http://polished.js.org/docs/#position">position</a></li>
     <li><a href="http://polished.js.org/docs/#size">size</a></li>
     <li><a href="http://polished.js.org/docs/#textinputs">textInputs</a></li>
@@ -136,9 +139,12 @@ polished 中文方法目录
   </ul>
 </details>
 <details open>
-  <summary>Helpers</summary>
+  <summary>Helpers - 辅助对象</summary>
   <ul>
-    <li><a href="http://polished.js.org/docs/#directionalproperty">directionalProperty</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#directionalproperty">directionalProperty</a>
+      定向设置(可传入margin 或者 padding), 然后四个方向的值也传入(不需要的方向用空字符串省略; 方向为: 上右下左);
+    </li>
     <li>
       <a href="http://polished.js.org/docs/#em">em</a>
       将像素转为 em
@@ -148,11 +154,14 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#rem">rem</a>
       将像素转为 rem
     </li>
-    <li><a href="http://polished.js.org/docs/#stripunit">stripUnit</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#stripunit">stripUnit</a>
+      去除单位: 输入一个带单位的属性值; 返回去除单位的值(比如输入'10px', 返回'10')
+    </li>
   </ul>
 </details>
 <details open>
-  <summary>Types</summary>
+  <summary>Types - 类型</summary>
   <ul>
     <li><a href="http://polished.js.org/docs/#animationproperty">AnimationProperty</a></li>
     <li><a href="http://polished.js.org/docs/#buttonstate">ButtonState</a></li>
