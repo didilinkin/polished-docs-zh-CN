@@ -59,46 +59,46 @@ polished 中文方法目录
     <li><a href="http://polished.js.org/docs/#adjusthue">adjustHue</a></li>
     <li>
       <a href="http://polished.js.org/docs/#complement">complement</a>
-      返回互补色
+      - 返回互补色
     </li>
     <li>
       <a href="http://polished.js.org/docs/#darken">darken</a>
-      调节颜色深浅
+      - 调节颜色深浅
     </li>
     <li>
       <a href="http://polished.js.org/docs/#desaturate">desaturate</a>
-      降低颜色的饱和度
+      - 降低颜色的饱和度
     </li>
     <li>
       <a href="http://polished.js.org/docs/#grayscale">grayscale</a>
-      将一个颜色转为灰度
+      - 将一个颜色转为灰度
     </li>
     <li>
       <a href="http://polished.js.org/docs/#hsl">hsl</a>
-      指定色调、饱和度和亮度三个值，返回一个颜色
+      - 指定色调、饱和度和亮度三个值，返回一个颜色
     </li>
     <li>
       <a href="http://polished.js.org/docs/#hsla">hsla</a>
-      指定色调、饱和度、亮度和透明度三个值，返回一个颜色
+      - 指定色调、饱和度、亮度和透明度三个值，返回一个颜色
     </li>
     <li><a href="http://polished.js.org/docs/#invert">invert</a></li>
     <li>
       <a href="http://polished.js.org/docs/#lighten">lighten</a>
-      调节颜色深浅
+      - 调节颜色深浅
     </li>
     <li>
       <a href="http://polished.js.org/docs/#mix">mix</a>
-      混合两种颜色
+      - 混合两种颜色
     </li>
     <li>
       <a href="http://polished.js.org/docs/#opacify">opacify</a>
-      调节透明度
+      - 调节透明度
     </li>
     <li><a href="http://polished.js.org/docs/#parsetohsl">parseToHsl</a></li>
     <li><a href="http://polished.js.org/docs/#parsetorgb">parseToRgb</a></li>
     <li>
       <a href="http://polished.js.org/docs/#rgb">rgb</a>
-      指定红、绿、蓝三个值，返回一个颜色
+      - 指定红、绿、蓝三个值，返回一个颜色
     </li>
     <li>
       <a href="http://polished.js.org/docs/#rgba">rgba</a>
@@ -106,7 +106,7 @@ polished 中文方法目录
     </li>
     <li>
       <a href="http://polished.js.org/docs/#saturate">saturate</a>
-      增加颜色的饱和度
+      - 增加颜色的饱和度
     </li>
     <li><a href="http://polished.js.org/docs/#sethue">setHue</a></li>
     <li><a href="http://polished.js.org/docs/#setlightness">setLightness</a></li>
