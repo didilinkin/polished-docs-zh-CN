@@ -127,10 +127,13 @@ polished 中文方法目录
     <li><a href="http://polished.js.org/docs/#borderstyle">borderStyle</a></li>
     <li><a href="http://polished.js.org/docs/#borderwidth">borderWidth</a></li>
     <li><a href="http://polished.js.org/docs/#buttons">buttons</a></li>
-    <li><a href="http://polished.js.org/docs/#margin">margin</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#margin">margin</a>
+      - margin缩写(4个)
+    </li>
     <li>
       <a href="http://polished.js.org/docs/#padding">padding</a>
-      padding缩写(4个)
+      - padding缩写(4个)
     </li>
     <li><a href="http://polished.js.org/docs/#position">position</a></li>
     <li><a href="http://polished.js.org/docs/#size">size</a></li>
@@ -143,20 +146,23 @@ polished 中文方法目录
   <ul>
     <li>
       <a href="http://polished.js.org/docs/#directionalproperty">directionalProperty</a>
-      定向设置(可传入margin 或者 padding), 然后四个方向的值也传入(不需要的方向用空字符串省略; 方向为: 上右下左);
+      - 定向设置(可传入margin 或者 padding), 然后四个方向的值也传入(不需要的方向用空字符串省略; 方向为: 上右下左);
     </li>
     <li>
       <a href="http://polished.js.org/docs/#em">em</a>
-      将像素转为 em
+      - 将像素转为 em
     </li>
-    <li><a href="http://polished.js.org/docs/#modularscale">modularScale</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#modularscale">modularScale</a>
+      - 调节比例
+    </li>
     <li>
       <a href="http://polished.js.org/docs/#rem">rem</a>
-      将像素转为 rem
+      - 将像素转为 rem
     </li>
     <li>
       <a href="http://polished.js.org/docs/#stripunit">stripUnit</a>
-      去除单位: 输入一个带单位的属性值; 返回去除单位的值(比如输入'10px', 返回'10')
+      - 去除单位: 输入一个带单位的属性值; 返回去除单位的值(比如输入'10px', 返回'10')
     </li>
   </ul>
 </details>
