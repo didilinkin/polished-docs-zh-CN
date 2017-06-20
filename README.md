@@ -14,6 +14,7 @@ polished 中文方法目录
     </li>
     <li>
       <a href="http://polished.js.org/docs/#fontface">fontFace</a>
+      - 字体库引入( 字体名称, 静态文件相对路径 )
     </li>
     <li>
       <a href="http://polished.js.org/docs/#hidpi">hiDPI</a>
@@ -33,6 +34,7 @@ polished 中文方法目录
     </li>
     <li>
       <a href="http://polished.js.org/docs/#radialgradient">radialGradient</a>
+      - 径向渐变
     </li>
     <li>
       <a href="http://polished.js.org/docs/#retinaimage">retinaImage</a>
@@ -44,12 +46,15 @@ polished 中文方法目录
     </li>
     <li>
       <a href="http://polished.js.org/docs/#timingfunctions">timingFunctions</a>
+      - 定时器函数( 处理动画 )
     </li>
     <li>
       <a href="http://polished.js.org/docs/#triangle">triangle</a>
+      - 以CSS来创建三角形, 以及它的背景色
     </li>
     <li>
       <a href="http://polished.js.org/docs/#wordwrap">wordWrap</a>
+      - 简单的文字包装属性混合( 填写一个属性值 => 填写三个属性的属性值 )
     </li>
   </ul>
 </details>
