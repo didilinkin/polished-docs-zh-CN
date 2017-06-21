@@ -130,7 +130,10 @@ polished 中文方法目录
     <li><a href="http://polished.js.org/docs/#bordercolor">borderColor</a></li>
     <li><a href="http://polished.js.org/docs/#borderradius">borderRadius</a></li>
     <li><a href="http://polished.js.org/docs/#borderstyle">borderStyle</a></li>
-    <li><a href="http://polished.js.org/docs/#borderwidth">borderWidth</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#borderwidth">borderWidth</a>
+      - border 4个方向的width简写(上右下左), 可用null忽略某个值
+    </li>
     <li><a href="http://polished.js.org/docs/#buttons">buttons</a></li>
     <li>
       <a href="http://polished.js.org/docs/#margin">margin</a>
