@@ -124,8 +124,14 @@ polished 中文方法目录
 <details open>
   <summary>Shorthands - 简写方法</summary>
   <ul>
-    <li><a href="http://polished.js.org/docs/#animation">animation</a></li>
-    <li><a href="http://polished.js.org/docs/#backgroundimages">backgroundImages</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#animation">animation</a>
+      - 简写动画属性(支持多动画, 以数组形式传入)
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#backgroundimages">backgroundImages</a>
+      - 简写背景图属性(默认第一个参数为背景图参数, 第二个参数可以传入线性渐变)
+    </li>
     <li><a href="http://polished.js.org/docs/#backgrounds">backgrounds</a></li>
     <li><a href="http://polished.js.org/docs/#bordercolor">borderColor</a></li>
     <li><a href="http://polished.js.org/docs/#borderradius">borderRadius</a></li>
