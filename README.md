@@ -61,7 +61,10 @@ polished 中文方法目录
 <details open>
   <summary>Color - 颜色</summary>
   <ul>
-    <li><a href="http://polished.js.org/docs/#adjusthue">adjustHue</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#adjusthue">adjustHue</a>
+      - 改变颜色的方法。色相是0到360之间的数。第一个参数是颜色在色轮上旋转的程度, 后面是要改变的颜色
+    </li>
     <li>
       <a href="http://polished.js.org/docs/#complement">complement</a>
       - 返回互补色
@@ -86,7 +89,10 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#hsla">hsla</a>
       - 指定色调、饱和度、亮度和透明度三个值，返回一个颜色
     </li>
-    <li><a href="http://polished.js.org/docs/#invert">invert</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#invert">invert</a>
+      - 反转一个颜色的rgb(红绿蓝)三个值
+    </li>
     <li>
       <a href="http://polished.js.org/docs/#lighten">lighten</a>
       - 调节颜色深浅
@@ -132,7 +138,10 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#backgroundimages">backgroundImages</a>
       - 简写背景图属性(默认第一个参数为背景图参数, 第二个参数可以传入线性渐变)
     </li>
-    <li><a href="http://polished.js.org/docs/#backgrounds">backgrounds</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#backgrounds">backgrounds</a>
+      - 简写的背景属性
+    </li>
     <li><a href="http://polished.js.org/docs/#bordercolor">borderColor</a></li>
     <li><a href="http://polished.js.org/docs/#borderradius">borderRadius</a></li>
     <li><a href="http://polished.js.org/docs/#borderstyle">borderStyle</a></li>
@@ -149,7 +158,10 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#padding">padding</a>
       - padding缩写(4个)
     </li>
-    <li><a href="http://polished.js.org/docs/#position">position</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#position">position</a>
+      - position的简写方法, 可使用null跳过一个值, 方向为(上右下左), 第一个值可以设为position关键字
+    </li>
     <li><a href="http://polished.js.org/docs/#size">size</a></li>
     <li><a href="http://polished.js.org/docs/#textinputs">textInputs</a></li>
     <li><a href="http://polished.js.org/docs/#transitions">transitions</a></li>
