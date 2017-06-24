@@ -142,14 +142,23 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#backgrounds">backgrounds</a>
       - 简写的背景属性
     </li>
-    <li><a href="http://polished.js.org/docs/#bordercolor">borderColor</a></li>
-    <li><a href="http://polished.js.org/docs/#borderradius">borderRadius</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#bordercolor">borderColor</a>
+      - 边框色的简写接受四个值，包括null，以跳过一个值
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#borderradius">borderRadius</a>
+      - 边界半径的简写接受了边值和半径的值，并将半径值应用到这一边的两个角上
+    </li>
     <li><a href="http://polished.js.org/docs/#borderstyle">borderStyle</a></li>
     <li>
       <a href="http://polished.js.org/docs/#borderwidth">borderWidth</a>
       - border 4个方向的width简写(上右下左), 可用null忽略某个值
     </li>
-    <li><a href="http://polished.js.org/docs/#buttons">buttons</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#buttons">buttons</a>
+      - 填充所有按钮的选择器. 您可以通过可选的状态来附加到选择器
+    </li>
     <li>
       <a href="http://polished.js.org/docs/#margin">margin</a>
       - margin缩写(4个)
