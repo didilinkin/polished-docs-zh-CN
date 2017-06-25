@@ -105,8 +105,14 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#opacify">opacify</a>
       - 调节透明度
     </li>
-    <li><a href="http://polished.js.org/docs/#parsetohsl">parseToHsl</a></li>
-    <li><a href="http://polished.js.org/docs/#parsetorgb">parseToRgb</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#parsetohsl">parseToHsl</a>
+      - 返回一个HslColor或HslaColor对象
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#parsetorgb">parseToRgb</a>
+      - 返回RgbColor或RgbaColor对象
+    </li>
     <li>
       <a href="http://polished.js.org/docs/#rgb">rgb</a>
       - 指定红、绿、蓝三个值，返回一个颜色
@@ -119,7 +125,10 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#saturate">saturate</a>
       - 增加颜色的饱和度
     </li>
-    <li><a href="http://polished.js.org/docs/#sethue">setHue</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#sethue">setHue</a>
+      - 输入色相值(01-359) 和一个想要配置的值; 返回计算好的颜色值
+    </li>
     <li><a href="http://polished.js.org/docs/#setlightness">setLightness</a></li>
     <li><a href="http://polished.js.org/docs/#setsaturation">setSaturation</a></li>
     <li><a href="http://polished.js.org/docs/#shade">shade</a></li>
@@ -150,7 +159,10 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#borderradius">borderRadius</a>
       - 边界半径的简写接受了边值和半径的值，并将半径值应用到这一边的两个角上
     </li>
-    <li><a href="http://polished.js.org/docs/#borderstyle">borderStyle</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#borderstyle">borderStyle</a>
+      - 边框样式的简写(接受4个值), 可用null跳过一个值
+    </li>
     <li>
       <a href="http://polished.js.org/docs/#borderwidth">borderWidth</a>
       - border 4个方向的width简写(上右下左), 可用null忽略某个值
@@ -171,9 +183,18 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#position">position</a>
       - position的简写方法, 可使用null跳过一个值, 方向为(上右下左), 第一个值可以设为position关键字
     </li>
-    <li><a href="http://polished.js.org/docs/#size">size</a></li>
-    <li><a href="http://polished.js.org/docs/#textinputs">textInputs</a></li>
-    <li><a href="http://polished.js.org/docs/#transitions">transitions</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#size">size</a>
+      - 简写 高度和宽度(width & height)
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#textinputs">textInputs</a>
+      - 填充所有文本输入的选择器。您可以通过可选的状态来附加到选择器
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#transitions">transitions</a>
+      - 转换的简写接受任意数量的转换值作为创建一个转换语句的参数
+    </li>
   </ul>
 </details>
 <details open>
