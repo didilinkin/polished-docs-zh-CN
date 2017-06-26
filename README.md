@@ -129,8 +129,14 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#sethue">setHue</a>
       - 输入色相值(01-359) 和一个想要配置的值; 返回计算好的颜色值
     </li>
-    <li><a href="http://polished.js.org/docs/#setlightness">setLightness</a></li>
-    <li><a href="http://polished.js.org/docs/#setsaturation">setSaturation</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#setlightness">setLightness</a>
+      - 调整提供颜色的光亮度。光的范围可以是0和1
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#setsaturation">setSaturation</a>
+      - 调整提供颜色的饱和度。饱和度的范围可以是0和1
+    </li>
     <li><a href="http://polished.js.org/docs/#shade">shade</a></li>
     <li><a href="http://polished.js.org/docs/#tint">tint</a></li>
     <li><a href="http://polished.js.org/docs/#transparentize">transparentize</a></li>
