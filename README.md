@@ -137,9 +137,18 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#setsaturation">setSaturation</a>
       - 调整提供颜色的饱和度。饱和度的范围可以是0和1
     </li>
-    <li><a href="http://polished.js.org/docs/#shade">shade</a></li>
-    <li><a href="http://polished.js.org/docs/#tint">tint</a></li>
-    <li><a href="http://polished.js.org/docs/#transparentize">transparentize</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#shade">shade</a>
+      - 调整颜色的阴影值。 调整亮度通道(0-1, 值越高, 阴影越强)
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#tint">tint</a>
+      - 调整颜色的亮度值。 调整亮度通道(0-1, 值越高, 亮度越高)
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#transparentize">transparentize</a>
+      - 调整颜色的透明度。 调整透明度通道(0-1)
+    </li>
   </ul>
 </details>
 <details open>
