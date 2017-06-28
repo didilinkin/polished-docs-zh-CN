@@ -240,11 +240,26 @@ polished 中文方法目录
 <details open>
   <summary>Types - 类型</summary>
   <ul>
-    <li><a href="http://polished.js.org/docs/#animationproperty">AnimationProperty</a></li>
-    <li><a href="http://polished.js.org/docs/#buttonstate">ButtonState</a></li>
-    <li><a href="http://polished.js.org/docs/#fontfaceconfiguration">FontFaceConfiguration</a></li>
-    <li><a href="http://polished.js.org/docs/#hslcolor">HslColor</a></li>
-    <li><a href="http://polished.js.org/docs/#hslacolor">HslaColor</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#animationproperty">AnimationProperty</a>
+      - 动画性质
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#buttonstate">ButtonState</a>
+      - 按钮状态
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#fontfaceconfiguration">FontFaceConfiguration</a>
+      - 字体配置
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#hslcolor">HslColor</a>
+      - 色调 - 饱和度 - 亮度的颜色
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#hslacolor">HslaColor</a>
+      - 色调 - 饱和度 - 亮度 - 透明度的颜色
+    </li>
     <li><a href="http://polished.js.org/docs/#inputstate">InputState</a></li>
     <li><a href="http://polished.js.org/docs/#pointingdirection">PointingDirection</a></li>
     <li><a href="http://polished.js.org/docs/#radialgradientconfiguration">RadialGradientConfiguration</a></li>
