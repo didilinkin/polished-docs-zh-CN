@@ -260,9 +260,18 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#hslacolor">HslaColor</a>
       - 色调 - 饱和度 - 亮度 - 透明度的颜色
     </li>
-    <li><a href="http://polished.js.org/docs/#inputstate">InputState</a></li>
-    <li><a href="http://polished.js.org/docs/#pointingdirection">PointingDirection</a></li>
-    <li><a href="http://polished.js.org/docs/#radialgradientconfiguration">RadialGradientConfiguration</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#inputstate">InputState</a>
+      - 输入框状态
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#pointingdirection">PointingDirection</a>
+      - 方向性
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#radialgradientconfiguration">RadialGradientConfiguration</a>
+      - 半径梯度配置
+    </li>
     <li><a href="http://polished.js.org/docs/#ratio">Ratio</a></li>
     <li><a href="http://polished.js.org/docs/#rgbacolor">RgbaColor</a></li>
     <li><a href="http://polished.js.org/docs/#rgbcolor">RgbColor</a></li>
