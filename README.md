@@ -272,10 +272,25 @@ polished 中文方法目录
       <a href="http://polished.js.org/docs/#radialgradientconfiguration">RadialGradientConfiguration</a>
       - 半径梯度配置
     </li>
-    <li><a href="http://polished.js.org/docs/#ratio">Ratio</a></li>
-    <li><a href="http://polished.js.org/docs/#rgbacolor">RgbaColor</a></li>
-    <li><a href="http://polished.js.org/docs/#rgbcolor">RgbColor</a></li>
-    <li><a href="http://polished.js.org/docs/#timingfunction">TimingFunction</a></li>
-    <li><a href="http://polished.js.org/docs/#tocolorstring">toColorString</a></li>
+    <li>
+      <a href="http://polished.js.org/docs/#ratio">Ratio</a>
+      - 比例
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#rgbacolor">RgbaColor</a>
+      - RGBA颜色
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#rgbcolor">RgbColor</a>
+      RGB颜色
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#timingfunction">TimingFunction</a>
+      - 定时事件
+    </li>
+    <li>
+      <a href="http://polished.js.org/docs/#tocolorstring">toColorString</a>
+      - 颜色字符串
+    </li>
   </ul>
 </details>
