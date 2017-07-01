@@ -119,7 +119,7 @@ polished 中文方法目录
     </li>
     <li>
       <a href="http://polished.js.org/docs/#rgba">rgba</a>
-      指定红、绿、蓝和透明度四个值，返回一个颜色
+      - 指定红、绿、蓝和透明度四个值，返回一个颜色
     </li>
     <li>
       <a href="http://polished.js.org/docs/#saturate">saturate</a>
